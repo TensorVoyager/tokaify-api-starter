@@ -30,10 +30,11 @@
 ### 🔥 主流商业模型
 | 模型系列 | 支持版本 | 更新频率 |
 |---------|---------|---------|
-| **OpenAI** | GPT-4o, GPT-4o-mini, GPT-4.1, o1, o3 | 实时同步 |
-| **Anthropic** | Claude 4.1, Claude 4 Opus, Claude 3.7, Claude 3.5 | 72小时内 |
-| **Google** | Gemini 2.0, Gemini 1.5 Pro, Gemini 1.5 Flash | 72小时内 |
-| **Meta** | Llama 3.1 405B, Llama 3.1 70B | 72小时内 |
+| **OpenAI** | GPT-5, GPT-5.1, GPT-5.1 Codex-mini, GPT-5.2, GPT-5.2 Codex, GPT-5.3, GPT-5.3 Codex, GPT-5.4, GPT-5.4-mini, GPT-5-Pro | 实时同步 |
+| **Anthropic** | Claude 4.1 Opus, Claude 4.5 Opus,Claude 4.5 Haiku,Claude 4.6 Sonnet, Claude 4.6 Opus, Claude 4.7 Opus | 72小时内 |
+| **Google** | Gemini 3.0, Gemini 3.5 Pro, Gemini 3.1 Flash | 72小时内 |
+| **Qwen** | Qwen 2.5,Qwen 3 Max Preview,Qwen 3.5 Flash,Qwen 3.5 Plus,Qwen 3.5 Flash | 72小时内 |
+| **Doubao** | doubao-seedance-1.0-pro,doubao-seedance-1.5-pro,doubao-seedance-2.0-,doubao-seedance-2.0-fast,doubao-seedance-2.0-lite,doubao-seedance-2.0-mini | 72小时内 |
 
 ### 🌱 开源模型
 - **DeepSeek**: R1, V3, Coder
